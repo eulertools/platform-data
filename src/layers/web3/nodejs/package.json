@@ -1,0 +1,22 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "web3": "^1.8.1",
+    "web3-core-helpers": "^1.7.1",
+    "web3-eth-abi": "^1.8.0",
+    "web3-utils": "^1.7.1"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.2",
+    "lodash": "^4.17.21"
+  }
+}
